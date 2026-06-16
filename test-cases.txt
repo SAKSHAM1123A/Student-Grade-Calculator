@@ -1,0 +1,157 @@
+STUDENT GRADE CALCULATOR - TEST CASES
+
+==================================================
+TEST CASE 1: Grade A
+====================
+
+Input:
+Name: Saksham
+Marks: 95
+
+Expected Output:
+Result for Saksham:-
+Marks: 95/100
+Grade: A
+Message: Great! Keep it up!
+
+Status: Pass
+
+==================================================
+TEST CASE 2: Grade B
+====================
+
+Input:
+Name: Rahul
+Marks: 85
+
+Expected Output:
+Result for Rahul:-
+Marks: 85/100
+Grade: B
+Message: Very Good! Keep it up!
+
+Status: Pass
+
+==================================================
+TEST CASE 3: Grade C
+====================
+
+Input:
+Name: Priya
+Marks: 75
+
+Expected Output:
+Result for Priya:-
+Marks: 75/100
+Grade: C
+Message: Good! Keep Improving!
+
+Status: Pass
+
+==================================================
+TEST CASE 4: Grade D
+====================
+
+Input:
+Name: Aman
+Marks: 65
+
+Expected Output:
+Result for Aman:-
+Marks: 65/100
+Grade: D
+Message: Good! Keep Improving!
+
+Status: Pass
+
+==================================================
+TEST CASE 5: Grade F
+====================
+
+Input:
+Name: Neha
+Marks: 45
+
+Expected Output:
+Result for Neha:-
+Marks: 45/100
+Grade: F
+Message: Focus more on Studying!
+
+Status: Pass
+
+==================================================
+TEST CASE 6: Minimum Valid Marks
+================================
+
+Input:
+Name: Arjun
+Marks: 0
+
+Expected Output:
+Result for Arjun:-
+Marks: 0/100
+Grade: F
+Message: Focus more on Studying!
+
+Status: Pass
+
+==================================================
+TEST CASE 7: Maximum Valid Marks
+================================
+
+Input:
+Name: Kavya
+Marks: 100
+
+Expected Output:
+Result for Kavya:-
+Marks: 100/100
+Grade: A
+Message: Great! Keep it up!
+
+Status: Pass
+
+==================================================
+TEST CASE 8: Marks Greater Than 100
+===================================
+
+Input:
+Name: Rohan
+Marks: 105
+
+Expected Output:
+Please enter your marks properly
+
+Status: Pass
+
+==================================================
+TEST CASE 9: Negative Marks
+===========================
+
+Input:
+Name: Simran
+Marks: -5
+
+Expected Output:
+Please enter your marks properly
+
+Status: Pass
+
+==================================================
+TEST CASE 10: Empty Input
+=========================
+
+Input:
+Name: Mohit
+Marks:
+
+Expected Output:
+Please enter your marks properly
+Program asks user to enter marks again.
+
+Status: Pass
+
+==================================================
+END OF TEST CASES
+
