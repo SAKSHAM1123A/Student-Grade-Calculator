@@ -60,7 +60,6 @@ Student-Grade-Calculator/
 │
 ├── README.md
 ├── grade_calculator.py
-├── test_cases.txt
 └── screenshots/
 ```
 
